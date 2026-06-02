@@ -1,0 +1,29 @@
+#btnAddition{
+    background-color: darkslateblue;
+    border-radius: 5px;
+    border: black;
+}
+
+#btnSubtraction{
+    background-color: pink;
+    border-radius: 5px;
+    border: black;
+}
+
+#btnMultiplication{
+    background-color: rgb(66, 191, 191);
+    border-radius: 5px;
+    border: black;
+}
+
+#btnDivision{
+    background-color: rgb(102, 78, 125);
+    border-radius: 5px;
+    border: black;
+}
+
+#btnReminder{
+    background-color: aquamarine;
+    border-radius: 5px;
+    border: black;
+}
